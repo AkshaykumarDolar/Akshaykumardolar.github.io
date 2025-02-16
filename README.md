@@ -1,42 +1,31 @@
-# Projects
+#📌 Portfolio Projects
 
-1. DLR - Dashboard
-Technologies Used: Power BI, Excel
-This project involves analyzing the DLR train departure losses dataset to extract meaningful insights using Power BI dashboards. Key focus areas include:
-Identifying train departure loss patterns
-Visualizing trends and disruptions in train operations
-Providing insights into optimizing schedules and minimizing losses
-The Power BI dashboard enables stakeholders to make data-driven decisions based on departure loss trends.
+Welcome to my portfolio! This page showcases my key projects, demonstrating my expertise in data analysis, business intelligence, and financial analytics.
 
-2. Eurostar - Calculation, Automation, Dashboard
+🚄 Eurostar - Calculation, Automation, Dashboard
+
 Technologies Used: Power BI, Excel, Automation Tools
+
 This project focuses on Stock Risk Classification and Consumption Analysis with automation for reporting. Key highlights:
+
 Stock Risk Classification: Categorized into Green, Amber, and Red
+
 Total Consumption Calculation: Analysis for 2021, 2022, and the average for 2023
+
 Monthly Coverage Analysis: Based on current stock levels
+
 Recommendations for Stock Strategy: Data-driven decision support
+
 Automation for Weekly Reporting: CSV export and email automation
+
 Consumption Tendency Analysis: Power BI visualizations
+
 Conclusion & Next Steps: Strategic planning insights based on data trends
 
-3. Retail Sales Dashboard - Time Series
+![image](https://github.com/user-attachments/assets/4270893b-c0af-4ba8-887d-dce7f42a5cd8)
 
-Technologies Used: Power BI, Time Series Forecasting, Data Analysis
 
-Abstract:
-This study investigates time series forecasting on retail sales data to uncover trends, seasonal patterns, and customer insights. The process involved:
-
-Data Cleaning & Preprocessing: Standardizing key variables (InvoiceDate, StockCode, Description, Quantity, UnitPrice)
-
-Time Series Modeling: Forecasting future sales patterns
-
-Dashboard Creation: Interactive Power BI visualizations
-
-Insights Derived: Sales trends, top-performing products, customer segmentation, and regional sales distribution
-
-Key visualizations include line charts, bar charts, treemaps, and maps to illustrate demand patterns and optimize business strategies.
-
-4. Data Warehouse - SQL, Star Schema, Data Analysis
+🏛 Data Warehouse - SQL, Star Schema, Data Analysis
 
 Technologies Used: SQL, Star Schema, Apache Hive, SSMS, HDFS, Pig
 
@@ -54,7 +43,43 @@ Business Intelligence: Enhancing inventory control and decision-making
 
 Through data integration and analysis, this project strengthened my ability to manage and interpret large-scale data effectively.
 
-5. Finance Analysis - Risk, Return, and Portfolio Optimization
+🚆 DLR - Dashboard
+
+Technologies Used: Power BI, Excel
+
+This project involves analyzing the DLR train departure losses dataset to extract meaningful insights using Power BI dashboards. Key focus areas include:
+
+• Identifying train departure loss patterns
+
+• Visualizing trends and disruptions in train operations
+
+• Providing insights into optimizing schedules and minimizing losses
+
+The Power BI dashboard enables stakeholders to make data-driven decisions based on departure loss trends.
+
+![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
+
+
+🛒 Retail Sales Dashboard - Time Series
+
+Technologies Used: Power BI, Time Series Forecasting, Data Analysis
+
+This study investigates time series forecasting on retail sales data to uncover trends, seasonal patterns, and customer insights. The process involved:
+
+Data Cleaning & Preprocessing: Standardizing key variables (InvoiceDate, StockCode, Description, Quantity, UnitPrice)
+
+Time Series Modeling: Forecasting future sales patterns
+
+Dashboard Creation: Interactive Power BI visualizations
+
+Insights Derived: Sales trends, top-performing products, customer segmentation, and regional sales distribution
+
+Key visualizations include line charts, bar charts, treemaps, and maps to illustrate demand patterns and optimize business strategies.
+
+![image](https://github.com/user-attachments/assets/6e4536fc-1c88-4cdb-95a6-67364ef935f9)
+
+
+💰 Finance Analysis - Risk, Return, and Portfolio Optimization
 
 Technologies Used: Excel, Solver, ARCH/GARCH Models, Regression Analysis
 
@@ -74,7 +99,7 @@ Sharpe Ratios for risk-adjusted returns
 
 Beta values and Value at Risk (VaR) for risk assessment
 
-Summary & Conclusion:
+📊 Summary & Conclusion
 
 The study highlights how to maximize returns while minimizing risks
 
@@ -84,6 +109,19 @@ Demonstrates how data-driven insights aid in investment decisions
 
 Key Findings: NextEra Energy, NRG Energy, and Vistra Energy were identified as ideal portfolio contributors, whereas ExxonMobil was excluded due to high risk with lower risk-adjusted returns.
 
+🎓 Certifications
+
+📜 Business Intelligence and Automated Reports Using Power BI
+
+📜 Power BI A-Z: Hands-on Power BI Training for Data Science
+
+📜 SQL Server Fundamentals: Master Basic Query Techniques
+
+📜 Master Microsoft Excel Macros and Excel VBA
+
+📜 Microsoft Excel Data Analysis and Dashboard Reporting
+
+🚀 This portfolio reflects my strong foundation in data analysis, business intelligence, and financial analytics, demonstrating my ability to derive actionable insights from complex datasets.
 
 
 
