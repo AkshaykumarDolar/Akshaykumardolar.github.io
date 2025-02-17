@@ -1,3 +1,4 @@
 remote_theme: jekyll-theme-minimal  # Keep your current theme
 include: ["assets/css/style.css"]
 title: "Akshaykumar Dolar"
+markdown: kramdown
