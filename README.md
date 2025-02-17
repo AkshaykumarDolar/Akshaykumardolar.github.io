@@ -1,4 +1,3 @@
-### Akshaykumar Dolar
 [Connect with me on LinkedIn](https://www.linkedin.com/in/linkedin.com/in/akshaykumar-dolar-5341121b9/) 
 
 **###📌 Portfolio Projects**
