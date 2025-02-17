@@ -96,7 +96,6 @@ This project focuses on portfolio optimization by evaluating financial risk and 
 •Key Metrics:
 
     •Efficient Frontier & Capital Market Line (CML)
-
     •Sharpe Ratios for risk-adjusted returns
 
 Beta values and Value at Risk (VaR) for risk assessment
