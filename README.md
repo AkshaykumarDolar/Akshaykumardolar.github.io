@@ -27,6 +27,7 @@ This project focuses on Stock Risk Classification and Consumption Analysis with 
 ![image](https://github.com/user-attachments/assets/4270893b-c0af-4ba8-887d-dce7f42a5cd8)
 
 
+
 **🏛 Data Warehouse - SQL, Star Schema, Data Analysis**
 
 Technologies Used: SQL, Star Schema, Apache Hive, SSMS, HDFS, Pig
@@ -45,6 +46,7 @@ This project involved designing and implementing a data warehouse for inventory 
 
 Through data integration and analysis, this project strengthened my ability to manage and interpret large-scale data effectively.
 
+
 **🚆 DLR - Dashboard**
 
 Technologies Used: Power BI, Excel
@@ -60,6 +62,7 @@ This project involves analyzing the DLR train departure losses dataset to extrac
 The Power BI dashboard enables stakeholders to make data-driven decisions based on departure loss trends.
 
 ![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
+
 
 
 **🛒 Retail Sales Dashboard - Time Series**
@@ -81,6 +84,7 @@ Key visualizations include line charts, bar charts, treemaps, and maps to illust
 ![image](https://github.com/user-attachments/assets/6e4536fc-1c88-4cdb-95a6-67364ef935f9)
 
 
+
 **💰 Finance Analysis - Risk, Return, and Portfolio Optimization**
 
 Technologies Used: Excel, Solver, ARCH/GARCH Models, Regression Analysis
@@ -95,11 +99,13 @@ This project focuses on portfolio optimization by evaluating financial risk and 
 
 •Key Metrics:
 
-    •Efficient Frontier & Capital Market Line (CML)
-    •Sharpe Ratios for risk-adjusted returns
+ a) Efficient Frontier & Capital Market Line (CML)
 
-Beta values and Value at Risk (VaR) for risk assessment
+ b) Sharpe Ratios for risk-adjusted returns
 
+ c) Beta values and Value at Risk (VaR) for risk assessment
+
+ 
 **📊 Summary & Conclusion**
 
 •The study highlights how to maximize returns while minimizing risks
@@ -109,6 +115,8 @@ Beta values and Value at Risk (VaR) for risk assessment
 •Demonstrates how data-driven insights aid in investment decisions
 
 Key Findings: NextEra Energy, NRG Energy, and Vistra Energy were identified as ideal portfolio contributors, whereas ExxonMobil was excluded due to high risk with lower risk-adjusted returns.
+
+
 
 **🎓 Certifications**
 
@@ -121,6 +129,7 @@ Key Findings: NextEra Energy, NRG Energy, and Vistra Energy were identified as i
 **📜 Master Microsoft Excel Macros and Excel VBA**
 
 **📜 Microsoft Excel Data Analysis and Dashboard Reporting**
+
 
 **🚀 This portfolio reflects my strong foundation in data analysis, business intelligence, and financial analytics, demonstrating my ability to derive actionable insights from complex datasets.**
 
