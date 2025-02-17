@@ -1,10 +1,10 @@
 [Connect with me on LinkedIn](https://www.linkedin.com/in/linkedin.com/in/akshaykumar-dolar-5341121b9/) 
 
-**###📌 Portfolio Projects**
+**### 📌 Portfolio Projects**
 
 Welcome to my portfolio! This page showcases my key projects, demonstrating my expertise in data analysis, business intelligence, and financial analytics.
 
-**##🚄 Eurostar - Calculation, Automation, Dashboard**
+**## 🚄 Eurostar - Calculation, Automation, Dashboard**
 
 Technologies Used: Power BI, Excel, Automation Tools
 
@@ -27,7 +27,7 @@ This project focuses on Stock Risk Classification and Consumption Analysis with 
 ![image](https://github.com/user-attachments/assets/4270893b-c0af-4ba8-887d-dce7f42a5cd8)
 
 
-**##🏛 Data Warehouse - SQL, Star Schema, Data Analysis**
+**## 🏛 Data Warehouse - SQL, Star Schema, Data Analysis**
 
 Technologies Used: SQL, Star Schema, Apache Hive, SSMS, HDFS, Pig
 
@@ -45,7 +45,7 @@ This project involved designing and implementing a data warehouse for inventory 
 
 Through data integration and analysis, this project strengthened my ability to manage and interpret large-scale data effectively.
 
-**##🚆 DLR - Dashboard**
+**## 🚆 DLR - Dashboard**
 
 Technologies Used: Power BI, Excel
 
@@ -62,7 +62,7 @@ The Power BI dashboard enables stakeholders to make data-driven decisions based 
 ![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
 
 
-**##🛒 Retail Sales Dashboard - Time Series**
+**## 🛒 Retail Sales Dashboard - Time Series**
 
 Technologies Used: Power BI, Time Series Forecasting, Data Analysis
 
@@ -81,7 +81,7 @@ Key visualizations include line charts, bar charts, treemaps, and maps to illust
 ![image](https://github.com/user-attachments/assets/6e4536fc-1c88-4cdb-95a6-67364ef935f9)
 
 
-**##💰 Finance Analysis - Risk, Return, and Portfolio Optimization**
+**## 💰 Finance Analysis - Risk, Return, and Portfolio Optimization**
 
 Technologies Used: Excel, Solver, ARCH/GARCH Models, Regression Analysis
 
@@ -101,7 +101,7 @@ This project focuses on portfolio optimization by evaluating financial risk and 
 
 Beta values and Value at Risk (VaR) for risk assessment
 
-**##📊 Summary & Conclusion**
+**## 📊 Summary & Conclusion**
 
 •The study highlights how to maximize returns while minimizing risks
 
@@ -111,19 +111,19 @@ Beta values and Value at Risk (VaR) for risk assessment
 
 Key Findings: NextEra Energy, NRG Energy, and Vistra Energy were identified as ideal portfolio contributors, whereas ExxonMobil was excluded due to high risk with lower risk-adjusted returns.
 
-**###🎓 Certifications**
+**### 🎓 Certifications**
 
-**##📜 Business Intelligence and Automated Reports Using Power BI**
+**## 📜 Business Intelligence and Automated Reports Using Power BI**
 
-**##📜 Power BI A-Z: Hands-on Power BI Training for Data Science**
+**## 📜 Power BI A-Z: Hands-on Power BI Training for Data Science**
 
-**##📜 SQL Server Fundamentals: Master Basic Query Techniques**
+**## 📜 SQL Server Fundamentals: Master Basic Query Techniques**
 
-**##📜 Master Microsoft Excel Macros and Excel VBA**
+**## 📜 Master Microsoft Excel Macros and Excel VBA**
 
-**##📜 Microsoft Excel Data Analysis and Dashboard Reporting**
+**## 📜 Microsoft Excel Data Analysis and Dashboard Reporting**
 
-**#🚀 This portfolio reflects my strong foundation in data analysis, business intelligence, and financial analytics, demonstrating my ability to derive actionable insights from complex datasets.**
+**# 🚀 This portfolio reflects my strong foundation in data analysis, business intelligence, and financial analytics, demonstrating my ability to derive actionable insights from complex datasets.**
 
 
 
