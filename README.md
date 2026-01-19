@@ -4,33 +4,6 @@
 
 Welcome to my portfolio! This page showcases my key projects, demonstrating my expertise in data analysis, business intelligence, and financial analytics.
 
-**🚆 DLR - Train Departure Losses Analytics Dashboard**
-
-Technologies Used: Power BI, Excel
-
-This project analyses DLR train departure losses to identify operational disruption patterns and support improvements in service reliability through data-driven insights.
-
-🔍 What this dashboard does
-•Departure Loss Analysis: Tracks total and periodic departure losses across multiple time periods to highlight operational impact.
-•Trend & Time Analysis: Visualises departure losses by year, month, and period number to identify recurring peaks and seasonal patterns.
-•Root Cause Insights: Breaks down losses by problem code groups (e.g. Doors, ATO, Traction, Auxiliaries) to pinpoint key drivers of disruption.
-•Responsibility Analysis: Shows departure losses by responsible manager and department, enabling clearer accountability and targeted action.
-•Detailed Drill-Down: Provides record-level visibility to investigate specific incidents by date, problem type, and ownership.
-
-📊 Outcome & Value
-•Improved visibility into where and why departure losses occur
-•Enabled teams to prioritise high-impact problem areas
-•Supported operational planning to reduce delays and service disruption
-•Delivered a clear, interactive dashboard for both strategic overview and detailed investigation
-
-🔜 Next Steps
-•Integrate real-time operational feeds for near-live monitoring
-•Extend analysis with service impact and passenger delay metrics
-
-**DLR – Train Departure Losses & Operational Disruption Dashboard**
-![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
-
-
 **🛒 Retail Sales – Time Series Analysis & Customer Insights Dashboard**
 
 Technologies Used: Power BI, Time Series Analysis, Data Analytics
@@ -57,6 +30,35 @@ This project analyses retail transaction data to identify sales trends, seasonal
 
 **Retail Sales – Time Series Trends & Customer Insights Dashboard**
 ![image](https://github.com/user-attachments/assets/6e4536fc-1c88-4cdb-95a6-67364ef935f9)
+
+
+
+**🚆 DLR - Train Departure Losses Analytics Dashboard**
+
+Technologies Used: Power BI, Excel
+
+This project analyses DLR train departure losses to identify operational disruption patterns and support improvements in service reliability through data-driven insights.
+
+🔍 What this dashboard does
+•Departure Loss Analysis: Tracks total and periodic departure losses across multiple time periods to highlight operational impact.
+•Trend & Time Analysis: Visualises departure losses by year, month, and period number to identify recurring peaks and seasonal patterns.
+•Root Cause Insights: Breaks down losses by problem code groups (e.g. Doors, ATO, Traction, Auxiliaries) to pinpoint key drivers of disruption.
+•Responsibility Analysis: Shows departure losses by responsible manager and department, enabling clearer accountability and targeted action.
+•Detailed Drill-Down: Provides record-level visibility to investigate specific incidents by date, problem type, and ownership.
+
+📊 Outcome & Value
+•Improved visibility into where and why departure losses occur
+•Enabled teams to prioritise high-impact problem areas
+•Supported operational planning to reduce delays and service disruption
+•Delivered a clear, interactive dashboard for both strategic overview and detailed investigation
+
+🔜 Next Steps
+•Integrate real-time operational feeds for near-live monitoring
+•Extend analysis with service impact and passenger delay metrics
+
+**DLR – Train Departure Losses & Operational Disruption Dashboard**
+![image](https://github.com/user-attachments/assets/381de626-c2be-431f-8218-7899f5f1cb1f)
+
 
 
 **🚄 Eurostar - Stock Risk & Consumption Analytics Dashboard**
@@ -87,6 +89,7 @@ This project delivers an end-to-end analytics solution to monitor stock consumpt
 
 **Eurostar – Stock Risk & Consumption Analytics Dashboard**
 ![image](https://github.com/user-attachments/assets/4270893b-c0af-4ba8-887d-dce7f42a5cd8)
+
 
 
 **🏛 Data Warehouse Design & Inventory Analytics Project**
