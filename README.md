@@ -1,4 +1,4 @@
-[Connect with me on LinkedIn](https://www.linkedin.com/in/akshaykumar-dolar-5341121b9/) 
+[Connect with me on LinkedIn](https://www.linkedin.com/in/akshaykumar-dolar-5341121b9) 
 
 **📌 Portfolio Projects**
 
